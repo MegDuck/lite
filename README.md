@@ -39,3 +39,7 @@ core will likely not be merged. Bug reports and bug fixes are welcome.
 ## License
 This project is free software; you can redistribute it and/or modify it under
 the terms of the MIT license. See [LICENSE](LICENSE) for details.
+
+## Some info and guides
+
+go to wiki page in this repository.
